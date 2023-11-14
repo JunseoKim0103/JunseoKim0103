@@ -1,27 +1,25 @@
 
-<div align='center'>
-  
-### Hi, I'm Junseo Kim
-I'm senior student of SKKU, I'm interested in Statistical Machine Learning and anomaly detection with sequential datasets
-<br>
-I'm majoring in Statistics and ComputerScience.
+# Hi, I'm Junseo Kim
+
+👩🏻‍💻 Interested in Statistical Machine Learning and Anomaly detection with sequential datasets
 
 ## Education
-- ```2019.03 ~ Present``` B.S. in Statistics at SKKU
+```2019.03 ~ Present``` B.S. in Statistics at SKKU
 
-- ```2020.03 ~ Present``` B.S. in Computer Science at SKKU
+```2020.03 ~ Present``` B.S. in Computer Science at SKKU
 
 ## Activities
-- ```2021.03 ~ 2022.02``` Union in Statistics | Student Council President
+```2021.03 ~ 2022.02``` Union in Statistics | Student Council President
 
-- ```2021.07 ~ Present``` Union Club LikeLion | President of the LikeLion of SKKU
+```2021.07 ~ Present``` Union Club LikeLion | President of the LikeLion of SKKU
 
-- ```2023.02 ~ Present``` Internship Researcher of ICT Enterprise Researcher in SKKU
+```2023.02 ~ Present``` Internship Researcher of ICT Enterprise Researcher in SKKU
 
-- ```2022.03 ~ 2023.07``` Statistical Analysis Group P-SAT | Time Series Analysis Team & Data Mining Team  
+```2022.03 ~ 2023.07``` Statistical Analysis Group P-SAT | Time Series Analysis Team & Data Mining Team  
 
 
 
+<div align='center'>
 
 ## Stacks 
 
