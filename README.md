@@ -13,7 +13,7 @@
 
 ```2021.07 ~ Present``` Union Club LikeLion | President of the LikeLion of SKKU
 
-```2023.02 ~ Present``` Internship Researcher of ICT Enterprise Researcher in SKKU
+```2023.02 ~ Present```  ICT Enterprise Researcher in SKKU | Internship Researcher about Speech grading model with multimodal
 
 ```2022.03 ~ 2023.07``` Statistical Analysis Group P-SAT | Time Series Analysis Team & Data Mining Team  
 
