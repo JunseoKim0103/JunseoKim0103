@@ -6,7 +6,6 @@ I'm senior student of SKKU, I'm interested in Statistical Machine Learning and a
 <br>
 I'm majoring in Statistics and ComputerScience.
 
-# Subin Kim
 
 👩🏻‍💻 Interested in Statistical Machine Learning and Anomaly detection with sequential datasets
 
