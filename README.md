@@ -13,9 +13,9 @@
 
 ```2022.03 ~ 2023.07``` Statistical Analysis Group P-SAT | Time Series Analysis Team & Data Mining Team 
 
-```2021.07 ~ Present``` Union Club LikeLion | President of the LikeLion of SKKU
+```2021.07 ~ 2024.02``` Union Club LikeLion | President of the LikeLion of SKKU
 
-```2023.02 ~ Present```  ICT Enterprise Researcher in SKKU | Internship Researcher about Speech grading model with multimodal
+```2023.12 ~ Present```  Graduate School of Data Science at SNU | Undergraduate Internship at H&NLP Lab
 
  
 
