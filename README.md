@@ -1,7 +1,7 @@
 
 # Hi, I'm Junseo Kim
 
-👩🏻‍💻 Interested in Statistical Machine Learning and Anomaly detection with sequential datasets
+👩🏻‍💻 Interested in NLP with Persuasion model and Multimodal
 
 ## Education
 ```2019.03 ~ Present``` B.S. in Statistics at SKKU
