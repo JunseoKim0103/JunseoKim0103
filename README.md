@@ -4,9 +4,9 @@
 👩🏻‍💻 Interested in NLP with Persuasion model and Multimodal
 
 ## Education
-```2019.03 ~ Present``` B.S. in Statistics at SKKU
+```2019.03 ~ 2024.02``` B.S. in Statistics at SKKU
 
-```2020.03 ~ Present``` B.S. in Computer Science at SKKU
+```2020.03 ~ 2024.02``` B.S. in Computer Science at SKKU
 
 ## Activities
 
