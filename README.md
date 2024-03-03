@@ -9,7 +9,6 @@
 ```2020.03 ~ Present``` B.S. in Computer Science at SKKU
 
 ## Activities
-```2021.03 ~ 2022.02``` Union in Statistics | Student Council President
 
 ```2022.03 ~ 2023.07``` Statistical Analysis Group P-SAT | Time Series Analysis Team & Data Mining Team 
 
