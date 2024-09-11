@@ -14,9 +14,7 @@
 
 ```2021.07 ~ 2024.02``` Union Club LikeLion | President of the LikeLion of SKKU
 
-```2023.12 ~ Present```  Graduate School of Data Science at SNU | Undergraduate Internship at HOLI Lab
-
- 
+```2023.12 ~ 2024.09```  Graduate School of Data Science at SNU | Undergraduate Internship at HOLI Lab
 
 
 
