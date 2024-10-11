@@ -1,7 +1,7 @@
 
 # Hi, I'm Junseo Kim
 
-👩🏻‍💻 Interested in NLP with Persuasion model and Multimodal
+👩🏻‍💻 Interested in NLP with Conversation Models, Multimodal Learning, and Embodied AI
 
 ## Education
 ```2019.03 ~ 2024.02``` B.S. in Statistics at SKKU
