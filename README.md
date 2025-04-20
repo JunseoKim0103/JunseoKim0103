@@ -10,10 +10,6 @@
 
 ## Activities
 
-```2022.03 ~ 2023.07``` Statistical Analysis Group P-SAT | Time Series Analysis Team & Data Mining Team 
-
-```2021.07 ~ 2024.02``` Union Club LikeLion | President of the LikeLion of SKKU
-
 ```2023.12 ~ 2024.09```  Graduate School of Data Science, Seoul National University | Undergraduate Internship at HOLI Lab
 
 ```2024.09 ~ ```  Department of Computer Science and Engineering, Seoul National University | Undergraduate Internship at SNUVL Lab
