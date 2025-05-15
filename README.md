@@ -15,6 +15,12 @@
 ```2024.09 ~ ```  Department of Computer Science and Engineering, Seoul National University | Undergraduate Internship at SNUVL Lab
 
 
+## publication
+PVP: An Image Dataset for Personalized Visual Persuasion with Persuasiveness Ratings, Persuasion Strategies, and Viewer Characteristics [[PDF](https://yohanjo.github.io/files/papers/junseo_kim.pdf)]  
+Junseo Kim, Jongwook Han, Dongmin Choi, Jongwook Yoon, Eun-Ju Lee, Yohan Jo  
+ACL 2025 (Main Conference)
+
+
 <div align='center'>
 
 ## Stacks 
