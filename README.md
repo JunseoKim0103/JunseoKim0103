@@ -1,7 +1,7 @@
 
 # Hi, I'm Junseo Kim
 
-👩🏻‍💻 Interested in NLP, Multimodal Learning, and Embodied AI like Web/Gui and Game Agent
+👩🏻‍💻 Interested in NLP, Multimodal Learning, and Agent Model(Web/Gui & Game)
 
 ## Education
 ```2019.03 ~ 2024.02``` B.S. in Statistics at SKKU
