@@ -8,11 +8,15 @@
 
 ```2020.03 ~ 2024.02``` B.S. in Computer Science at SKKU
 
+```2025.08 ~ ``` M.S. in Artificial Intelligence of Seoul National University, under the supervision of Prof. Gunhee Kim
+
+
+
 ## Activities
 
 ```2023.12 ~ 2024.09```  Graduate School of Data Science, Seoul National University | Undergraduate Internship at HOLI Lab
 
-```2024.09 ~ ```  Department of Computer Science and Engineering, Seoul National University | Undergraduate Internship at SNUVL Lab
+```2024.09 ~ 2025.08```  Department of Computer Science and Engineering, Seoul National University | Undergraduate Internship at SNUVL Lab
 
 ## Publication  
 **PVP: An Image Dataset for Personalized Visual Persuasion with Persuasion Strategies, Viewer Characteristics, and Persuasiveness Ratings** [[arxiv](https://arxiv.org/abs/2506.00481)]  
