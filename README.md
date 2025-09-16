@@ -20,8 +20,8 @@
 
 ## Publication  
 
-**FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games**  [[arxiv]((https://arxiv.org/abs/2509.01052))]    
-<sub>Jaewoo Ahn*, Junseo Kim*, Heeseung Yun, Jaehyeon Son, Dongmin Park, Jaewoong Cho, Gunhee Kim (* equal contribution)</sub>  
+**FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games**  [[arxiv](https://arxiv.org/abs/2509.01052)]    
+<sub>Jaewoo Ahn*, Junseo Kim*, Heeseung Yun, Jaehyeon Son, Dongmin Park, Jaewoong Cho, Gunhee Kim (*equal contribution)</sub>  
 <sub><i><span style="color:gray">EMNLP 2025 (Main Conference)</span></i></sub>  
 
 
